@@ -5,7 +5,6 @@ class HomeController {
   List<CurrencyModel>? currencies;
   CurrencyModel? toCurrency;
   CurrencyModel? fromCurrency;
-
   final TextEditingController toText;
   final TextEditingController fromText;
 
